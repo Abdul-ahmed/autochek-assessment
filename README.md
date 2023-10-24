@@ -4,12 +4,12 @@ Note: Before you can successfully run this NextJs project on your local machine,
 
 #### Step 1: Clone the project
 ```bash
-git clone https://github.com/Abdul-ahmed/autochek-technical-assessment.git
+git clone https://github.com/Abdul-ahmed/autochek-assessment.git
 ```
 
 #### Step 2: Open the cloned project
 ```bash
-cd autochek-technical-assessment
+cd autochek-assessment
 ```
 
 #### Step 3: Install node_modules
